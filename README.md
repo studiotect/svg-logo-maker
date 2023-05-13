@@ -37,4 +37,5 @@ Here is a screenshot of the homepage.
 
 The repo can be viewed here: [https://github.com/studiotect/svg-logo-maker/](https://github.com/studiotect/svg-logo-maker/)
 
-Video Link: 
+Video Link: [https://drive.google.com/file/d/1njjesSzVeIyaAWvvS6-G5BlCovEYrfQb/view/](https://drive.google.com/file/d/1njjesSzVeIyaAWvvS6-G5BlCovEYrfQb/view/)
+ 
